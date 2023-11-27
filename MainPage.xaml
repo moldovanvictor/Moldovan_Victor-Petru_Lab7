@@ -10,7 +10,7 @@
             VerticalOptions="Center">
 
             <Image
-                Source="blackhole.png"
+                Source="blackhole.svg"
                 SemanticProperties.Description="Best black hole in the universe!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
