@@ -23,7 +23,6 @@ namespace Moldovan_Victor_Petru_Lab7
         public App()
         {
             InitializeComponent();
-
             MainPage = new AppShell();
         }
     }
